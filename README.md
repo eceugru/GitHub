@@ -1,0 +1,2 @@
+# GitHub
+Test amaçlı oluşturulmuştur.
